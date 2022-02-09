@@ -9,3 +9,9 @@ Chat (direct) <br>
  _Wallet_ <br>
 Uni coin & Uni Bank !
 
+**Version 0.02 :**<br>
+User Profile <br>
+ _prfile_  <br>
+ _login_ <br>
+
+
